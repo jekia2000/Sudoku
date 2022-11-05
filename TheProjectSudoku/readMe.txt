@@ -1,4 +1,4 @@
-Developed on Windows 10 in my free time
+Developed on Windows 10 in my 2nd year
 
 1) Code for the graphical part of Sudoku has been taken from http://newcoder.io/gui/part-3/ and altered to suit my needs
 
@@ -8,8 +8,7 @@ Developed on Windows 10 in my free time
 
     Be sure to import the tkinter library if you do not have it.
     -You can open the python files in an editor, e.g. Visual Studio Code, and simply run Main.py
-    -You can enter the "TheProjectSudoku" folder either via Windows cmd or Linux terminal and type "python Main.py" (Windows)
-    or "python3 Main.py" (Linux)
+    -You can enter the "TheProjectSudoku" folder either via Windows cmd or Linux terminal and type "python Main.py" 
 
 4) How to play?
 
@@ -19,5 +18,3 @@ Developed on Windows 10 in my free time
     entered digits which break Sudoku rules. You cannot continue with your play until you change the red digit to blue, or erases it. When you
     fill in the Sudoku, click on the "Finish" button to finish your game. If you cannot solve the puzzle, click on the "Give up" button. After
     that, you can start a new game by simply clicking on the "New Game".
-
-5) If you have some questions, contact me at alekjelacamg000@gmail.com
